@@ -10,7 +10,7 @@ import Testimonials from './components/Testimonials';
 import Blog from './components/Blog';
 import ContactForm from './components/ContactForm';
 import Footer from './components/Footer';
-import { Search, X, Check, ShoppingBag, Droplet, Send } from 'lucide-react';
+import { Search, X, Check, ShoppingBag, Droplet } from 'lucide-react';
 
 export default function App() {
   const [cart, setCart] = useState([]);
